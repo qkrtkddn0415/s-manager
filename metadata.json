@@ -1,0 +1,6 @@
+{
+  "name": "지식 및 일정 관리",
+  "description": "개인 지식 노트와 할 일 및 일정을 태그와 우선순위로 관리하고, 마감일 알림, 대시보드, 다크 모드, 오프라인 지원, 백업 및 팀 협업을 제공하는 일정 관리 툴",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
